@@ -1,10 +1,10 @@
-6063
+6069
 90C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@swc\helpers\lib\_array_like_to_array.js133384524755109079 0
 102C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133384524752854580 0
 67C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@msgpackr-extract133384546751466738 1
 121C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133384524747594215 0
 98C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\node_modules\msgpackr\dist\index.min.js.map133384524749506931 0
-49C:\Users\LENOVO\Desktop\Pallag-React\package.json133384546751496675 0
+49C:\Users\LENOVO\Desktop\Pallag-React\package.json133384577466251812 0
 72C:\Users\LENOVO\Desktop\Pallag-React\node_modules\loose-envify\custom.js133384541667865941 0
 87C:\Users\LENOVO\Desktop\Pallag-React\node_modules\css-tree\cjs\lexer\generic-urange.cjs133384524751279964 0
 134C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133384524749183603 0
@@ -16,7 +16,7 @@
 92C:\Users\LENOVO\Desktop\Pallag-React\node_modules\posthtml\node_modules\posthtml-parser\dist133384524741514094 1
 76C:\Users\LENOVO\Desktop\Pallag-React\node_modules\css-tree\lib\syntax\config133384524761061753 1
 77C:\Users\LENOVO\Desktop\Pallag-React\node_modules\entities\lib\encode-trie.js133384524741561281 0
-43C:\Users\LENOVO\Desktop\Pallag-React\App.js133384550801585056 0
+43C:\Users\LENOVO\Desktop\Pallag-React\App.js133384572051420433 0
 68C:\Users\LENOVO\Desktop\Pallag-React\node_modules\.package-lock.json133384546752032453 0
 61C:\Users\LENOVO\Desktop\Pallag-React\node_modules\safe-buffer133384524739229004 1
 100C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133384524744624505 0
@@ -25,7 +25,7 @@
 47C:\Users\LENOVO\Desktop\Pallag-React\.gitignore133383813052720898 0
 79C:\Users\LENOVO\Desktop\Pallag-React\node_modules\css-tree\cjs\walker\index.cjs133384524753227634 0
 90C:\Users\LENOVO\Desktop\Pallag-React\node_modules\csso\lib\restructure\3-disjoinRuleset.js133384524750832312 0
-41C:\Users\LENOVO\Desktop\Pallag-React\dist133384546757994649 1
+41C:\Users\LENOVO\Desktop\Pallag-React\dist133384578015766151 1
 91C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\core\src\requests\AssetRequest.js133384524749020564 0
 72C:\Users\LENOVO\Desktop\Pallag-React\node_modules\mdn-data\l10n\index.js133384524739761733 0
 84C:\Users\LENOVO\Desktop\Pallag-React\node_modules\mdn-data\css\selectors.schema.json133384524747060426 0
@@ -633,7 +633,7 @@
 71C:\Users\LENOVO\Desktop\Pallag-React\node_modules\loose-envify\index.js133384541667876007 0
 78C:\Users\LENOVO\Desktop\Pallag-React\node_modules\semver\functions\rcompare.js133384524749367606 0
 67C:\Users\LENOVO\Desktop\Pallag-React\node_modules\nth-check\lib\esm133384524747518665 1
-60C:\Users\LENOVO\Desktop\Pallag-React\dist\index.6c313d5e.css133384546757334359 0
+60C:\Users\LENOVO\Desktop\Pallag-React\dist\index.6c313d5e.css133384577472474177 0
 94C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\node_modules\node-addon-api\common.gypi133384524737569381 0
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\caniuse-lite\data\regions\BD.js133384524752389766 0
 75C:\Users\LENOVO\Desktop\Pallag-React\node_modules\csso\cjs\replace\property133384524747060426 1
@@ -1904,6 +1904,7 @@
 85C:\Users\LENOVO\Desktop\Pallag-React\node_modules\node-addon-api\package-support.json133384524745266186 0
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\caniuse-lite\data\regions\GD.js133384524763196545 0
 77C:\Users\LENOVO\Desktop\Pallag-React\node_modules\node-addon-api\package.json133384524745509838 0
+63C:\Users\LENOVO\Desktop\Pallag-React\dist\index.7826abd7.js.map133384577473318271 0
 115C:\Users\LENOVO\Desktop\Pallag-React\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133384524760060592 0
 62C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\LICENSE133384524744523387 0
 72C:\Users\LENOVO\Desktop\Pallag-React\node_modules\mdn-data\l10n\css.json133384524742896242 0
@@ -2179,6 +2180,7 @@
 107C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\index.js133384524736909514 0
 87C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\dependencies\lz4\lib\dll\example133384524757844980 1
 97C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133384524757390413 0
+64C:\Users\LENOVO\Desktop\Pallag-React\dist\Index.04ed74b0.css.map133384577576076136 0
 111C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133384524736449606 0
 98C:\Users\LENOVO\Desktop\Pallag-React\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133384524757789069 1
 100C:\Users\LENOVO\Desktop\Pallag-React\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js133384524760169128 0
@@ -5077,7 +5079,7 @@
 95C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\transformer-css\src\CSSTransformer.js133384524738235973 0
 79C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\namer-default\LICENSE133384524735823034 0
 79C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\transformer-babel\src133384524745719580 1
-64C:\Users\LENOVO\Desktop\Pallag-React\dist\index.6c313d5e.css.map133384546757430390 0
+64C:\Users\LENOVO\Desktop\Pallag-React\dist\index.6c313d5e.css.map133384577472554944 0
 89C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\transformer-babel\src\babel7.js133384524738101987 0
 98C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133384524739731007 0
 111C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133384524737083133 0
@@ -5179,6 +5181,7 @@
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\runtime-browser-hmr\lib133384524740017963 1
 85C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\runtime-browser-hmr\LICENSE133384524735737778 0
 90C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\runtime-browser-hmr\package.json133384524742188895 0
+59C:\Users\LENOVO\Desktop\Pallag-React\dist\Index.06d53847.js133384577575986146 0
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\runtime-browser-hmr\src133384524741100930 1
 104C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133384524741760572 0
 113C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\trace.js133384524756532941 0
@@ -5546,7 +5549,7 @@
 118C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133384524742725678 0
 86C:\Users\LENOVO\Desktop\Pallag-React\node_modules\.bin\download-msgpackr-prebuilds.cmd133384524773522081 0
 129C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133384524743069713 0
-52C:\Users\LENOVO\Desktop\Pallag-React\dist\index.html133384546757944580 0
+52C:\Users\LENOVO\Desktop\Pallag-React\dist\index.html133384578015756140 0
 125C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupListOfValues.js133384524743804770 0
 126C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupNumericValues.js133384524744099620 0
 119C:\Users\LENOVO\Desktop\Pallag-React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertColors.js133384524745418894 0
@@ -6061,4 +6064,7 @@
 63C:\Users\LENOVO\Desktop\Pallag-React\node_modules\.bin\svgo.ps1133384524773532190 0
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\.bin\update-browserslist-db.cmd133384524773532190 0
 81C:\Users\LENOVO\Desktop\Pallag-React\node_modules\.bin\update-browserslist-db.ps1133384524773532190 0
+60C:\Users\LENOVO\Desktop\Pallag-React\dist\Index.04ed74b0.css133384577575976125 0
+63C:\Users\LENOVO\Desktop\Pallag-React\dist\Index.06d53847.js.map133384577576076136 0
 63C:\Users\LENOVO\Desktop\Pallag-React\dist\index.6bd02f5a.js.map133384546757535840 0
+59C:\Users\LENOVO\Desktop\Pallag-React\dist\index.7826abd7.js133384577473268273 0

@@ -1,0 +1,1 @@
+{"mappings":"ACAA,sBAIA","sources":["Index.04ed74b0.css","Index.css"],"sourcesContent":["#heading {\n  color: orange;\n}\n\n#name {\n  color: red;\n}\n\n/*# sourceMappingURL=Index.04ed74b0.css.map */\n","#heading{\r\n    color: orange;\r\n}\r\n\r\n#name{\r\n    color: red;\r\n}"],"names":[],"version":3,"file":"Index.04ed74b0.css.map"}

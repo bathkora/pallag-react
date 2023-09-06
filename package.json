@@ -2,8 +2,10 @@
   "name": "retry-again",
   "version": "1.0.0",
   "description": "again trying after one learning",
-  "main": "App.js",
+  
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build Index.html",
     "test": "jest"
   },
   "repository": {
